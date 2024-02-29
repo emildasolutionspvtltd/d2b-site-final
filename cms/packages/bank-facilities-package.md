@@ -2,10 +2,11 @@
 title: Bank Facilities Package
 f_image:
   url: >-
-    /assets/external/65a0e1b444c72a14621b2069_mobile-banking-concept-hand-holds-smartphone-with-abstract-icons-bank-financial-services.jpg
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e1b444c72a14621b2069_mobile-banking-concept-hand-holds-smartphone-with-abstract-icons-bank-financial-services.jpg
   alt: null
 f_logo-image:
-  url: /assets/external/6593dad704d90dc84a793f04_div.imagecontainer%20(5).png
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6593dad704d90dc84a793f04_div.imagecontainer%20(5).png
   alt: null
 slug: bank-facilities-package
 updated-on: '2024-01-12T06:55:24.711Z'
@@ -44,7 +45,7 @@ f_detailed-rich-text: >-
   ‍
 
 
-  ![](/assets/external/65a0e226835bdd6b007c9375_businessman-show-chart-profit-company-digital-world-map-screen.jpg)
+  ![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e226835bdd6b007c9375_businessman-show-chart-profit-company-digital-world-map-screen.jpg)
 
 
   The Bank Facilities Package offers a robust platform for businesses to manage

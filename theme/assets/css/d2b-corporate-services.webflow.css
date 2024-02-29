@@ -4512,7 +4512,7 @@ h1 {
 }
 
 .page_intro {
-  display: none;
+  display: flex;
 }
 
 .intro {

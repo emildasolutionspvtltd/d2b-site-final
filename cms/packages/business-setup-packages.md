@@ -1,10 +1,12 @@
 ---
 title: Business Setup Packages
 f_logo-image:
-  url: /assets/external/6593da58d57f32cbe55fbbf9_div.imagecontainer%20(6).png
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6593da58d57f32cbe55fbbf9_div.imagecontainer%20(6).png
   alt: null
 f_image:
-  url: /assets/external/65a0e186775eed5d8ea3d7a9_2150951277.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e186775eed5d8ea3d7a9_2150951277.jpg
   alt: null
 slug: business-setup-packages
 updated-on: '2024-01-12T06:52:01.184Z'
@@ -41,7 +43,7 @@ f_detailed-rich-text: >-
   ‍
 
 
-  ![](/assets/external/65a0de4c211a00be21d51ac6_business-people-working.jpg)
+  ![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0de4c211a00be21d51ac6_business-people-working.jpg)
 
 
   ‍

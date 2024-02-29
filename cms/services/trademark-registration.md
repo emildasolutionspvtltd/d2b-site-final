@@ -5,16 +5,19 @@ f_service-short-description: >-
   brand protection and legal compliance.
 slug: trademark-registration
 f_service-logo:
-  url: /assets/external/658d6dba4f9335e0ffe5f128_employee20engagement.svg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/658d6dba4f9335e0ffe5f128_Employee%20engagement.svg
   alt: null
 updated-on: '2024-02-21T11:57:14.260Z'
 created-on: '2023-12-28T08:54:11.671Z'
 published-on: '2024-02-22T11:04:39.844Z'
 f_home-service-logo:
-  url: /assets/external/659d13cbc12e1f28a5584906_group205.svg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/659d13cbc12e1f28a5584906_Group%20(5).svg
   alt: null
 f_single-service-cover-image:
-  url: /assets/external/65a0c443a1c8131a8949a0ab_scx.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0c443a1c8131a8949a0ab_scx.jpg
   alt: null
 layout: '[services].html'
 tags: services
@@ -35,7 +38,7 @@ Securing intellectual property rights through trademark registration, ensuring b
 
 ‍
 
-![](/assets/external/65a0c47c60b0c29e03d86c75_2150970191.jpg)
+![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0c47c60b0c29e03d86c75_2150970191.jpg)
 
 ### Benefits:
 

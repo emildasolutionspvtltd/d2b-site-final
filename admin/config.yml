@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -1837,7 +1837,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1019fe14'
+            name: 4b5242ee
             widget: object
             fields:
               - name: url
@@ -1850,7 +1850,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-29110a36'
+            name: 84efe4c
             widget: object
             fields:
               - name: url
@@ -2006,7 +2006,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 5495b50d
+            name: '2097e385'
             widget: object
             fields:
               - name: url

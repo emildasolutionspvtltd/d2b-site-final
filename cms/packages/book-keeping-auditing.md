@@ -1,10 +1,12 @@
 ---
 title: Book Keeping & Auditing
 f_logo-image:
-  url: /assets/external/6593daf132571becf2640c8c_div.imagecontainer%20(7).png
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6593daf132571becf2640c8c_div.imagecontainer%20(7).png
   alt: null
 f_image:
-  url: /assets/external/65a0e427a0474cfc7229e9f7_jl3b.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e427a0474cfc7229e9f7_jl%3B.jpg
   alt: null
 slug: book-keeping-auditing
 updated-on: '2024-01-12T07:03:10.039Z'
@@ -43,7 +45,7 @@ f_detailed-rich-text: >-
   ‍
 
 
-  ![](/assets/external/65a0e30b9d99876a6bc22727_91602.jpg)
+  ![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e30b9d99876a6bc22727_91602.jpg)
 
 
   ‍

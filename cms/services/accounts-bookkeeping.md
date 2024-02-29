@@ -5,14 +5,16 @@ f_service-short-description: >-
   business transparency and compliance.
 slug: accounts-bookkeeping
 f_service-logo:
-  url: /assets/external/65d5e60a3a8e1b5f221563a7_accounting.svg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65d5e60a3a8e1b5f221563a7_accounting.svg
   alt: null
 f_home-service-logo:
-  url: /assets/external/65d5e61123b3dbb85c67fde9_accounting201.svg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65d5e61123b3dbb85c67fde9_accounting%20(1).svg
   alt: null
 f_single-service-cover-image:
   url: >-
-    /assets/external/65d5e68f752fde18b079f40a_hands-young-businesspeople-pointing-business-graph-report-tablet-office.jpg
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65d5e68f752fde18b079f40a_hands-young-businesspeople-pointing-business-graph-report-tablet-office.jpg
   alt: null
 updated-on: '2024-02-21T12:05:32.411Z'
 created-on: '2024-02-21T12:05:32.411Z'
@@ -36,7 +38,7 @@ Providing meticulous financial record-keeping and accounting services for busine
 
 ‍
 
-![](/assets/external/65d5e6ff32bc7a71acb6a1d3_1203.jpg)
+![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65d5e6ff32bc7a71acb6a1d3_1%20(3).jpg)
 
 ### Benefits:
 

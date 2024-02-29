@@ -2,10 +2,11 @@
 title: Bank Account Opening
 f_image:
   url: >-
-    /assets/external/65a0e40e48c51f8beeed50b8_28571633_banking_and_finance_concept_illustration.jpg
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e40e48c51f8beeed50b8_28571633_banking_and_finance_concept_illustration.jpg
   alt: null
 f_logo-image:
-  url: /assets/external/6593da8cf34c0f8678e1435c_div.imagecontainer%20(9).png
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6593da8cf34c0f8678e1435c_div.imagecontainer%20(9).png
   alt: null
 slug: bank-account-opening
 updated-on: '2024-01-12T07:02:42.532Z'
@@ -44,7 +45,7 @@ f_detailed-rich-text: >-
   ‍
 
 
-  ![](/assets/external/65a0e2c4a690ad353608a8a6_wire-transfer-young-man-using-his-smartphone-laptop-banking-transaction-some-payments.jpg)
+  ![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e2c4a690ad353608a8a6_wire-transfer-young-man-using-his-smartphone-laptop-banking-transaction-some-payments.jpg)
 
 
   ‍

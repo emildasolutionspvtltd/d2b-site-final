@@ -11,7 +11,8 @@ updated-on: '2024-01-12T13:44:26.017Z'
 created-on: '2024-01-02T13:34:34.199Z'
 published-on: '2024-01-24T05:36:25.324Z'
 f_blog-image:
-  url: /assets/external/6594ee824efd42cbb6db343c_2150946783.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6594ee824efd42cbb6db343c_2150946783.jpg
   alt: null
 layout: '[blogs].html'
 tags: blogs

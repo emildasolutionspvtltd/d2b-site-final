@@ -1,10 +1,12 @@
 ---
 title: Home loans
 f_logo-image:
-  url: /assets/external/6593dab81d761910b14e247b_div.imagecontainer%20(8).png
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/6593dab81d761910b14e247b_div.imagecontainer%20(8).png
   alt: null
 f_image:
-  url: /assets/external/65a0e1606146fea291d68d00_2151064986.jpg
+  url: >-
+    https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0e1606146fea291d68d00_2151064986.jpg
   alt: null
 slug: home-loans
 updated-on: '2024-01-24T06:10:22.505Z'
@@ -43,7 +45,7 @@ f_detailed-rich-text: >-
   ‍
 
 
-  ![](/assets/external/65a0dd96ccb9ee252ded2104_female-realtor-giving-key-from-new-flat-house-female-clients.jpg)
+  ![](https://uploads-ssl.webflow.com/658d37a64205f287540e1a41/65a0dd96ccb9ee252ded2104_female-realtor-giving-key-from-new-flat-house-female-clients.jpg)
 
 
   ‍
