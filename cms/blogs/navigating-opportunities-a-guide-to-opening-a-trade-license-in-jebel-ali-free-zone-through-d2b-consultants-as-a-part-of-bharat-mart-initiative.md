@@ -7,6 +7,9 @@ published-on: 2024-03-04T11:51:23.256Z
 f_blog-short-description: Guide to Opening a Trade License in Jebel Ali Free Zone
 f_blog-date: 2024-03-04T11:51:23.273Z
 f_featured: false
+f_blog-image:
+  url: /assets/images/dzsd.png
+  alt: Trade License in Jebel Ali Free Zone
 tags: blogs
 layout: "[blogs].html"
 date: 2024-03-04T11:51:23.285Z
